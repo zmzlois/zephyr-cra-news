@@ -23,7 +23,7 @@
   font-family: "chelten-normal-500";
   src:
     local("chelten-normal-500"),
-    url("./fonts/cheltenham-normal-500.woff2") format("woff2");
+    url("./fonts/cheltenham-normal-500.woff") format("woff");
 }
 
 @font-face {
@@ -44,7 +44,7 @@
   font-family: "franklin-normal-300";
   src:
     local("franklin-normal-300"),
-    url("./fonts/franklin-normal-300.woff2") format("woff2");
+    url("./fonts/franklin-normal-300.woff") format("woff");
 }
 
 @font-face {
