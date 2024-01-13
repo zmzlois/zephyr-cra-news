@@ -1,3 +1,95 @@
+@font-face {
+  font-family: "chelten-italic-400";
+  src:
+    local("chelten-italic-400"),
+    url("./fonts/cheltenham-italic-400.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "chelten-normal-200";
+  src:
+    local("chelten-normal-200"),
+    url("./fonts/cheltenham-normal-200.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "chelten-normal-300";
+  src:
+    local("chelten-normal-300"),
+    url("./fonts/cheltenham-normal-300.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "chelten-normal-500";
+  src:
+    local("chelten-normal-500"),
+    url("./fonts/cheltenham-normal-500.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "chelten-normal-700";
+  src:
+    local("chelten-normal-700"),
+    url("./fonts/cheltenham-normal-700.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "chelten-small-normal-700";
+  src:
+    local("chelten-small-normal-700"),
+    url("./fonts/cheltenham-small-normal-700.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "franklin-normal-300";
+  src:
+    local("franklin-normal-300"),
+    url("./fonts/franklin-normal-300.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "franklin-normal-500";
+  src:
+    local("franklin-normal-500"),
+    url("./fonts/franklin-normal-500.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "franklin-normal-600";
+  src: 
+    local("franklin-normal-600"),
+    url("./fonts/franklin-normal-600.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "franklin-normal-700";
+  src:
+    local("franklin-normal-700"),
+    url("./fonts/franklin-normal-700.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "imperial-normal-400";
+  src:
+    local("imperial-normal-400"),
+    url("./fonts/imperial-normal-400.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "karnak-normal-700";
+  src:
+    local("karnak-normal-700"),
+    url("./fonts/karnak-normal-700.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "roboto";
+  src:
+    local("roboto"),
+    url("./fonts/roboto.woff2") format("woff2");
+}
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

@@ -53,6 +53,20 @@ const config = {
           foreground: "hsl(var(--card-foreground))",
         },
       },
+      fontFamily: {
+        "chelten-italic": ["chelten-italic-400", "sans-serif"],
+        "chelten-200": ["chelten-normal-200", "sans-serif"],
+        "chelten-300": ["chelten-normal-300", "sans-serif"],
+        "chelten-500": ["chelten-normal-500", "sans-serif"],
+        "chelten-700": ["chelten-normal-700", "sans-serif"],
+        "chelten-sm-700": ["chelten-smallcaps-700", "sans-serif"],
+        "franklin-300": ["franklin-normal-300", "sans-serif"],
+        "franklin-500": ["franklin-normal-500", "sans-serif"],
+        "franklin-600": ["franklin-normal-600", "sans-serif"],
+        "franklin-700": ["franklin-normal-700", "sans-serif"],
+        "karnak-700": ["karnak-normal-700", "sans-serif"],
+        "roboto": ["roboto", "sans-serif"]
+      },
       borderRadius: {
         lg: "var(--radius)",
         md: "calc(var(--radius) - 2px)",
